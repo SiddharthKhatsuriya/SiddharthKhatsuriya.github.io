@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Siddharth Khatsuriya
-permalink: /
 ---
 
 ### Novice Developer
