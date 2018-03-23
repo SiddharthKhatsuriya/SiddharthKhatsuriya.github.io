@@ -1,8 +1,4 @@
----
-layout: page
-title: Siddharth Khatsuriya
-permalink: /index/
----
+
 
 ### Novice Developer
 - [siddharthkhatsuriya@icloud.com](mailto:siddharthkhatsuriya@icloud.com)
