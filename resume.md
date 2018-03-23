@@ -7,7 +7,7 @@ permalink: /resume/
 ### Novice Developer
 - [siddharthkhatsuriya@icloud.com](mailto:siddharthkhatsuriya@icloud.com)
 - +91-8866032543
-- [siddharthkhatsuriya.github.io](https://siddharthkhatsuriya.github.io/resume)
+- [siddharthkhatsuriya.github.io](https://siddharthkhatsuriya.github.io)
 
 ### Personal summary
 
