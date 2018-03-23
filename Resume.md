@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Siddharth Khatsuriya
+permalink:/resume/
 ---
 
 ### Novice Developer
