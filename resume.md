@@ -1,6 +1,3 @@
-### [Google Drive Link](https://drive.google.com/open?id=1SkKRLy4E3nTtD3JGk1tWzmqdyEGcfiKA)
-
-
 ### Novice Developer
 - [siddharthkhatsuriya@icloud.com](mailto:siddharthkhatsuriya@icloud.com)
 - +91-8866032543
