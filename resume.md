@@ -13,7 +13,7 @@ and has a soft corner for networks
 
 ### Education 
 
-- B.Tech   Computer Engineering (pursuing), Dharamsinh Desai University
+- B.Tech   Computer Engineering (pursuing 6.85 CPI), Dharamsinh Desai University
 - Diploma  Computer Engineering (9.32 CPI), Gujarat Technological University
 - SSC      GSEB (92 %ile),S.P.E.I.(GSHSEB)
 
@@ -51,3 +51,7 @@ a personal cloud music WebApp built in Python Django.
  
 #### [Coaching Classes Web App]
 a PHP-Laravel Web app made as a freelancing project for a local Coaching Class
+
+
+### [Github Repositories](https://github.com/SiddharthKhatsuriya?tab=repositories)
+
