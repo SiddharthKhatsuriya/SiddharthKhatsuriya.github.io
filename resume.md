@@ -26,7 +26,7 @@ and has a soft corner for networks
 	- CSS
 	- PHP
 	- MySQL
--Android
+- Android
 	-Rooting
 	-Custom Rom Developement
 	-APK Moding
