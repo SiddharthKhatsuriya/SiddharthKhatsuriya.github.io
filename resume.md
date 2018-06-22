@@ -27,9 +27,9 @@ and has a soft corner for networks
 	- PHP
 	- MySQL
 - Android
-	-Rooting
-	-Custom Rom Developement
-	-APK Moding
+	- Rooting
+	- Custom Rom Developement
+	- APK Moding
 
 ### Projects
 
@@ -47,3 +47,7 @@ a WebApp made with .Net Technologies that can help digitizing the paperwork for 
 
 #### [Wolken Music]
 a personal cloud music WebApp built in Python Django.
+
+ 
+#### [Coaching Classes Web App]
+a PHP-Laravel Web app made as a freelancing project for a local Coaching Class
