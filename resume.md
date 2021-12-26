@@ -1,4 +1,4 @@
-### Novice Developer
+### Siddharth Khatsuriya
 - [siddharthkhatsuriya@gmail.com](mailto:siddharthkhatsuriya@gmail.com)
 - +91-8866032543
 - [siddharthkhatsuriya.github.io](https://siddharthkhatsuriya.github.io)
