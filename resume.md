@@ -1,23 +1,26 @@
 ### Novice Developer
-- [siddharthkhatsuriya@icloud.com](mailto:siddharthkhatsuriya@icloud.com)
+- [siddharthkhatsuriya@gmail.com](mailto:siddharthkhatsuriya@gmail.com)
 - +91-8866032543
 - [siddharthkhatsuriya.github.io](https://siddharthkhatsuriya.github.io)
 
 ### Personal summary
 
-> A techno geek who loves to explore technological world (especially custom android world)
-and has a soft corner for networks
+> Software engineer with 3+ years of professional experience and with ability to find a good balance between optimal-efficient engineering and business requirement.
 
 ### Education 
 
-- B.Tech   Computer Engineering (pursuing 6.85 CPI), Dharamsinh Desai University
-- Diploma  Computer Engineering (9.32 CPI), Gujarat Technological University
-- SSC      GSEB (92 %ile),S.P.E.I.(GSHSEB)
+- M.Sc.    Computer Science, Liverpool John Moores University
+- B.Tech   Computer Engineering, Dharamsinh Desai University
+- Diploma  Computer Engineering, Gujarat Technological University
 
 ### Technologies
 
-- Java (Intermediate)
-- LAMP Stack (Intermediate)
+- Python
+	- core
+	- Web ( Flask, Django )
+	- Automation ( selenium, cucumber )
+	- Testing ( pytest )
+- LAMP Stack
 	- Linux
 	- HTML
 	- CSS
@@ -30,25 +33,26 @@ and has a soft corner for networks
 
 ### Projects
 
-#### [Consumer Dealing Solutions]
-A PHP website which brings solution to online deals including conract sigining and payment related modules.
+#### [Automation Testing Cloud Architecture]
+Docker, Kubernetes, Jenkins, CircleCI, Gitlab, Github Actions, AWS ( EKS )
+
+Developed Infrastructure as a code that deploys a Splunk infrastructure on-the-go for executing the automation tests on Push and PRs to Splunk Add-on repo.
+
+#### [Pytest-splunk-addon]
+Stack: python, Docker, Kubernetes
+
+An automation test tool that takes a Splunk add-on as input and generated tests for Splunk Knowledge tests on-the-go, reducing the developers task to manually write the required tests. It aslo has an ability to deploy a dynamic fresh Splunk instance to run tests on.
+
+#### [Smartx]
+Stack: python, HTML, CSS, JS
+
+An automation framework that can be used to simplify writing UI test-cases of Splunk Add-ons
+
+#### [Splunk App and Add-on Developement]
+Stack: React JS, Backbone JS, python, java, Bash
+
+Developing Apps and Add-ons that works as a dala collection unit and data visualization unit on the platform. These apps and add-ons are used to simplify the data analysis.
 
 
-#### [Unnamed social media website]
-A website to share images and videos with friends.
 
-
-#### [School Management System]
-a WebApp made with .Net Technologies that can help digitizing the paperwork for educational institutes.
-
-
-#### [Wolken Music]
-a personal cloud music WebApp built in Python Django.
-
- 
-#### [Coaching Classes Web App]
-a PHP-Laravel Web app made as a freelancing project for a local Coaching Class
-
-
-### [Github Repositories](https://github.com/SiddharthKhatsuriya?tab=repositories)
 
