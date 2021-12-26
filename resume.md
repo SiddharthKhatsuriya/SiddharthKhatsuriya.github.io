@@ -52,7 +52,3 @@ An automation framework that can be used to simplify writing UI test-cases of Sp
 Stack: React JS, Backbone JS, python, java, Bash
 
 Developing Apps and Add-ons that works as a dala collection unit and data visualization unit on the platform. These apps and add-ons are used to simplify the data analysis.
-
-
-
-
