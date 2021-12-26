@@ -9,7 +9,7 @@
 
 ### Education 
 
-- M.Sc.    Computer Science, Liverpool John Moores University
+- M.Sc.    Computer Science, Liverpool John Moores University ( pursuing 2021-2022 )
 - B.Tech   Computer Engineering, Dharamsinh Desai University
 - Diploma  Computer Engineering, Gujarat Technological University
 
@@ -38,12 +38,12 @@ Docker, Kubernetes, Jenkins, CircleCI, Gitlab, Github Actions, AWS ( EKS )
 
 Developed Infrastructure as a code that deploys a Splunk infrastructure on-the-go for executing the automation tests on Push and PRs to Splunk Add-on repo.
 
-#### [Pytest-splunk-addon]
+#### [Pytest-splunk-addon] (https://github.com/splunk/pytest-splunk-addon)
 Stack: python, Docker, Kubernetes
 
 An automation test tool that takes a Splunk add-on as input and generated tests for Splunk Knowledge tests on-the-go, reducing the developers task to manually write the required tests. It aslo has an ability to deploy a dynamic fresh Splunk instance to run tests on.
 
-#### [Smartx]
+#### [Smartx](https://github.com/splunk/addon-factory-smartx-ui-test-library)
 Stack: python, HTML, CSS, JS
 
 An automation framework that can be used to simplify writing UI test-cases of Splunk Add-ons
