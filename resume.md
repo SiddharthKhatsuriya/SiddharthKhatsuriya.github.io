@@ -43,7 +43,7 @@ Stack: python, Docker, Kubernetes
 
 An automation test tool that takes a Splunk add-on as input and generated tests for Splunk Knowledge tests on-the-go, reducing the developers task to manually write the required tests. It aslo has an ability to deploy a dynamic fresh Splunk instance to run tests on.
 
-#### [Smartx](https://github.com/splunk/addon-factory-smartx-ui-test-library)
+#### [Smartx] (https://github.com/splunk/addon-factory-smartx-ui-test-library)
 Stack: python, HTML, CSS, JS
 
 An automation framework that can be used to simplify writing UI test-cases of Splunk Add-ons
