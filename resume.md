@@ -1,7 +1,7 @@
 ### Siddharth Khatsuriya
 - [siddharthkhatsuriya@gmail.com](mailto:siddharthkhatsuriya@gmail.com)
 - +91-8866032543
-- [siddharthkhatsuriya.github.io](https://siddharthkhatsuriya.github.io)
+- [siddharthkhatsuriya.github.io](https://siddharthkhatsuriya.github.io/resume)
 
 ### Personal summary
 
@@ -33,8 +33,13 @@
 
 ### Projects
 
-#### [Automation Testing Cloud Architecture]
-Docker, Kubernetes, Jenkins, CircleCI, Gitlab, Github Actions, AWS ( EKS )
+#### [Automation Testing Cloud Architecture for Splunk enterprise and cloud]
+Docker, Kubernetes, Gitlab, Argo, AWS ( EKS, ECR, SecretsManager, CloudMonitor )
+
+Developed Testing platform for smoke testing for test-candidates of unreleased Splunk Enterprise and Cloud.
+
+#### [Automation Testing Cloud Architecture for Splunk addons]
+Docker, Kubernetes, Jenkins, CircleCI, Github Actions, AWS ( EKS ), SignalFX, Terraform
 
 Developed Infrastructure as a code that deploys a Splunk infrastructure on-the-go for executing the automation tests on Push and PRs to Splunk Add-on repo.
 
