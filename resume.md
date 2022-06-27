@@ -33,15 +33,25 @@
 
 ### Projects
 
+#### [Data Engineering piepline]
+Docker, AWS ( Lambda, Step Function, Batch, EventBridge, S3, CloudMonitor, athena, glue )
+
+A Pipeline to create private repository of weather data collected from various government sources like NOAA ISD, Meteostat, gloh2o MSWEP, etc. The data is standardized using a template and made queryable using athena+glue 
+
+#### [Automation Testing Cloud Architecture for Splunk Universal Forwarder]
+Docker, Kubernetes, Gitlab, Argo, AWS ( EKS, ECR, EC2, SecretsManager, CloudMonitor, istio ), SignalFX
+
+Splunk Universal Forwarder smoke testing platform developed for testing unreleased UF fro Splunk Enterprise.
+
 #### [Automation Testing Cloud Architecture for Splunk enterprise and cloud]
-Docker, Kubernetes, Gitlab, Argo, AWS ( EKS, ECR, SecretsManager, CloudMonitor )
+Docker, Kubernetes, Gitlab, Argo, AWS ( EKS, ECR, SecretsManager, CloudMonitor ), SignalFX
 
-Developed Testing platform for smoke testing for test-candidates of unreleased Splunk Enterprise and Cloud.
+Splunk Enterprise and Cloud smoke testing platform developed for testing unreleased test candidates.
 
-#### [Automation Testing Cloud Architecture for Splunk addons]
+#### [CI/CD and Automation Testing Cloud Architecture for Splunk addons]
 Docker, Kubernetes, Jenkins, CircleCI, Github Actions, AWS ( EKS ), SignalFX, Terraform
 
-Developed Infrastructure as a code that deploys a Splunk infrastructure on-the-go for executing the automation tests on Push and PRs to Splunk Add-on repo.
+Infrastructure as a code that deploys Splunk infrastructure on-the-go for running automation tests on Pushes and PRs to Splunk Add-on repository. CI/CD pipelines also include static code analysis, building Python modules, testing the builds, and releasing modules to Github.
 
 #### [Pytest-splunk-addon] (https://github.com/splunk/pytest-splunk-addon)
 Stack: python, Docker, Kubernetes
